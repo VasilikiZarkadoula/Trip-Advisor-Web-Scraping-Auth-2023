@@ -3,8 +3,9 @@
 This is a hands-on lab project on Web scraping with Selenium. We extract raw textual data from TripAdvisor, we preprocess and analyze them to unveil new knowledge.
 Specifically, we scrape TripAdvisor data for local Cafes and Bars businesses in Thessaloniki. <br />
 
-![alt text]([https://github.com/VasilikiZarkadoula/Trip-Advisor-Web-Scraping-Auth-2023/blob/main/scraper.PNG]?raw=true)
+![alt text](https://github.com/VasilikiZarkadoula/Trip-Advisor-Web-Scraping-Auth-2023/blob/main/scraper.png?raw=true)
  <br />
+ 
 The tutorial will have the following sections:
 
 A. Installing and setting up Selenium
