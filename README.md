@@ -20,3 +20,6 @@ E. Final DataFrame format
 F. Data Analysis in Python 
 
 G. Insightful conclusions 
+
+<br /> <br />
+Aristotle Univeristy of Thessaloniki (AUTh) <br /> Web Mining Course <br /> Authors: Kyriaki Potamopoulou, Vasiliki Zarkadoula, Vasilis Daoulas
